@@ -3,3 +3,4 @@ I tried to keep all the images in an image folder but i couldnt upload folder in
 Now I have beginner level experience using GitHub and Visual Studio Code.
 I have spend approximately 3-4 hours of ai assistance.
 Since the QGIS logo was not available via CDN like the others, I downloaded it and included it manually in the project.
+For background animation i used vanta.js. You can chase the birds with ur cursor
